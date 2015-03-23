@@ -1,0 +1,159 @@
+
+elements.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+roca7
+  rotate: false
+  xy: 0, 773
+  size: 291, 241
+  orig: 291, 241
+  offset: 0, 0
+  index: -1
+roca9
+  rotate: false
+  xy: 291, 787
+  size: 281, 227
+  orig: 281, 227
+  offset: 0, 0
+  index: -1
+roca6
+  rotate: false
+  xy: 572, 758
+  size: 240, 256
+  orig: 240, 256
+  offset: 0, 0
+  index: -1
+roca15
+  rotate: false
+  xy: 291, 556
+  size: 237, 231
+  orig: 237, 231
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 528, 786
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+roca19
+  rotate: false
+  xy: 0, 571
+  size: 265, 202
+  orig: 265, 202
+  offset: 0, 0
+  index: -1
+roca12
+  rotate: false
+  xy: 0, 358
+  size: 249, 213
+  orig: 249, 213
+  offset: 0, 0
+  index: -1
+roca3
+  rotate: false
+  xy: 812, 758
+  size: 162, 256
+  orig: 162, 256
+  offset: 0, 0
+  index: -1
+roca18
+  rotate: false
+  xy: 0, 133
+  size: 218, 225
+  orig: 218, 225
+  offset: 0, 0
+  index: -1
+roca11
+  rotate: false
+  xy: 0, 0
+  size: 282, 133
+  orig: 282, 133
+  offset: 0, 0
+  index: -1
+roca1
+  rotate: false
+  xy: 218, 177
+  size: 265, 181
+  orig: 265, 181
+  offset: 0, 0
+  index: -1
+roca14
+  rotate: false
+  xy: 282, 28
+  size: 263, 149
+  orig: 263, 149
+  offset: 0, 0
+  index: -1
+roca10
+  rotate: false
+  xy: 249, 358
+  size: 230, 198
+  orig: 230, 198
+  offset: 0, 0
+  index: -1
+roca20
+  rotate: false
+  xy: 479, 358
+  size: 230, 198
+  orig: 230, 198
+  offset: 0, 0
+  index: -1
+roca16
+  rotate: false
+  xy: 483, 223
+  size: 260, 135
+  orig: 260, 135
+  offset: 0, 0
+  index: -1
+roca17
+  rotate: false
+  xy: 528, 627
+  size: 256, 131
+  orig: 256, 131
+  offset: 0, 0
+  index: -1
+roca13
+  rotate: false
+  xy: 709, 371
+  size: 147, 256
+  orig: 147, 256
+  offset: 0, 0
+  index: -1
+roca5_a
+  rotate: false
+  xy: 784, 636
+  size: 128, 122
+  orig: 128, 122
+  offset: 0, 0
+  index: -1
+roca4
+  rotate: false
+  xy: 743, 115
+  size: 147, 256
+  orig: 147, 256
+  offset: 0, 0
+  index: -1
+roca5
+  rotate: false
+  xy: 856, 380
+  size: 136, 256
+  orig: 136, 256
+  offset: 0, 0
+  index: -1
+roca2
+  rotate: false
+  xy: 890, 124
+  size: 131, 256
+  orig: 131, 256
+  offset: 0, 0
+  index: -1
+basepez
+  rotate: false
+  xy: 545, 144
+  size: 144, 79
+  orig: 144, 79
+  offset: 0, 0
+  index: -1

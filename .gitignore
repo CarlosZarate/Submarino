@@ -1,0 +1,9 @@
+# -- Submarine------
+
+/Submarine/*
+/Submarine-android/*
+/Submarine-desktop/*
+!/Submarine/src
+!/Submarine-android/src
+!/Submarine-android/assets
+!/Submarine-desktop/src
